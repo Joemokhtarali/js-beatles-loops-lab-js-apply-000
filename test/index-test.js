@@ -63,6 +63,6 @@ function iLoveTheBeatles(array) {
   
   do {
     
-    while ()
+    while (i < 15)
   }
 }

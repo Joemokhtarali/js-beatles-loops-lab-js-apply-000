@@ -65,10 +65,10 @@ function iLoveTheBeatles(array) {
     
   do {
       newArr.push('I love the Beatles!');
-      i++;
       
-    while (array.length < 15)
+    while (i < 15) {
+      i++
   }
-  
+  }
   return newArr;
 }
